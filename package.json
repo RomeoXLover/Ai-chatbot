@@ -1,0 +1,25 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "Customizable AI Discord Chatbot supporting OpenAI-compatible APIs, DMs, mentions, and conversation memory.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "ai",
+    "chatbot",
+    "openai",
+    "openrouter",
+    "groq",
+    "ollama"
+  ],
+  "author": "RomeoXLover",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}

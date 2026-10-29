@@ -1,0 +1,11 @@
+{
+  "discord_token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "api_url": "https://api.openai.com/v1/chat/completions",
+  "api_key": "YOUR_AI_API_KEY_HERE",
+  "model": "gpt-4o",
+  "system_prompt": "You are a helpful, friendly, and knowledgeable AI assistant. You answer questions clearly, accurately, and assist users according to their needs.",
+  "max_tokens": 1500,
+  "temperature": 0.7,
+  "memory_limit": 10,
+  "reset_command": "!reset"
+}
