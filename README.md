@@ -1,5 +1,7 @@
 # Ai-chatbot
 
+[![CI](https://github.com/RomeoXLover/Ai-chatbot/actions/workflows/check.yml/badge.svg)](https://github.com/RomeoXLover/Ai-chatbot/actions/workflows/check.yml)
+
 A lightweight, customizable AI Discord Chatbot built with **Node.js** and **discord.js v14**. It connects to any OpenAI-compatible AI API (OpenAI, OpenRouter, Groq, DeepSeek, Ollama, LM Studio, etc.) and automatically assists users whenever it is **pinged (mentioned)** in a server or receives a **Direct Message (DM)**.
 
 ---
